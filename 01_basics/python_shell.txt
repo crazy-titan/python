@@ -1,0 +1,27 @@
+# I work on python shell on my mac using the command python3 + Enter
+
+# here we saw how to check directory
+# using the command import os and then os.getcwd() , this will give your current dir.
+
+# we also saw how to check system
+# using the command import sys and then sys.platform , this will give your system mine 'darwin'
+
+# then i saw the for loop
+# for i in "chai"
+...  indentation print(i)
+
+// this will give you c,h,a, and i .
+
+than i come to python shell again and import hello
+# and then excute the function by writting hello.chai("hello world"), This will output hello world
+
+# after this we go to hello.py file and initialise some variable.
+
+
+#now i tried to access the new variable using same previous cmd hello.chai_one, but unfortunetely can't 
+able to do that because the new variable is added but i didn't import them . so we need to import again
+
+# to do this, we use libraries, from importlib import reload
+and then use reload() 
+# this will reload the hello file and then we can use previous cmd like , hello.chai_one and now it
+will give output
