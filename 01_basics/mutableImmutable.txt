@@ -1,0 +1,36 @@
+# we will now know about mutable and immutable.
+
+# mostly you will find that someone is relating constant and variable, which is completely wrong.
+
+# some says u can't change is immutable and change is called mutable.
+
+# But nothing exactly clear. So, lets check it out what is it.
+
+example of mutable is list,dictionary and immutable are interger, string etc.
+
+#open your python shell and write these commands.
+
+x = 10
+y = x
+
+then see the value x and y.
+you can see both come out to be 10.
+
+in next line , write x = 15
+then see the value of y, you will see y is still equall to 10.
+
+# basically python treat everything as objects, and didn't change the reference.
+
+so, in this case y is still pointing to the 10 , where as x now pointing to new reference that is 15.
+
+
+Draw the diagram by your own to see practically. its wonderful to see/
+
+Even if you write ie,
+user = "Titan"
+and see the user result, u will see its Titan
+and when you again write user = "Electrical"
+and see the user result, u will see its Electrical// this doesn't verify that strings are immutable.
+because anyone can say it can be change after seeing this example. but as we discuss earlier python 
+take everything as object and give them a reference or memory. so in this case it is showing two differnt
+reference.
