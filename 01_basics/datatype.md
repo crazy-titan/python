@@ -23,9 +23,12 @@
 
 
 ~Number
+~ 2 ** 100 will easily gets calculated
 
 ~import math
-~ 2 ** 100 will easily gets calculated
+~ math.pi will give you value of pi
+
+~math.choice([]) here you can put any array inside it to get random choice from it.
 
 ~import random
 ~random.random() will output a random value.
