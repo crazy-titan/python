@@ -20,6 +20,7 @@
 ~ we can use string as array but you can't manupulate it becz its immutable.
 ~ username[1] will output as 'i'
 ~ but if you try username[1] = "k" >> it will show error.
+~ username[1:3] , will give 'ita' as output
 
 
 ~Number
@@ -39,6 +40,8 @@
 ~ username = [1,3,5,'hello']
 ~ username[1] will give 3
 ~ username[-1] will give 'hello'
+~ len(username) this will give the length of array , we can use it everywhere when required.
+~ username[0:2] this will give 1,3 as output because it start from 0 and not include 2nd index.
 
 
 
