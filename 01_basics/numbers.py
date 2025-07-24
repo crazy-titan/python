@@ -1,0 +1,1 @@
+# we will see indepth of numbers in python shell.
