@@ -1,0 +1,1 @@
+# we will now see the concept and details about the list in python.
