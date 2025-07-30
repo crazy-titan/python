@@ -13,9 +13,9 @@ Problem: Movie tickets are priced based on age: $12 for adults (18 and over), $8
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>3. Grade Calculator
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Assign a letter grade based on a student's score: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60).
 </details>
 
 <details>
