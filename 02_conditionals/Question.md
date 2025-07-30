@@ -19,9 +19,10 @@ Problem: Assign a letter grade based on a student's score: A (90-100), B (80-89)
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>4. Fruit Ripeness Checker
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Determine if a fruit is ripe, overripe, or unripe based on its color. (e.g., Banana: Green - Unripe,
+Yellow - Ripe, Brown - Overripe)
 </details>
 
 <details>
