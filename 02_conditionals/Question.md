@@ -26,9 +26,9 @@ Yellow - Ripe, Brown - Overripe)
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>5. Weather Activity Suggestion
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Suggest an activity based on the weather (e.g., Sunny - Go for a walk, Rainy - Read a book,Snowy - Build a snowman).)
 </details>
 
 <details>
