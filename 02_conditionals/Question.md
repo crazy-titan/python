@@ -44,9 +44,9 @@ Problem: Customize a coffee order: "Small", "Medium", or "Large" with an option 
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>8. Password Strength Checker
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Check if a password is "Weak", "Medium", or "Strong". Criteria: < 6 chars (Weak), 6-10 chars (Medium), >10 chars (Strong).
 </details>
 
 <details>
