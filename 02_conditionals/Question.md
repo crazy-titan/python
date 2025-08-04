@@ -50,9 +50,9 @@ Problem: Check if a password is "Weak", "Medium", or "Strong". Criteria: < 6 cha
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>9. Leap Year Checker
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Determine if a year is a leap year. (Leap years are divisible by 4, but not by 100 unless also divisible by 400).
 </details>
 
 <details>
