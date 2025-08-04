@@ -38,9 +38,9 @@ Problem: Choose a mode of transportation based on the distance (e.g., less than 
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>7. Coffee Customization
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Customize a coffee order: "Small", "Medium", or "Large" with an option for "Extra shot" of espresso.
 </details>
 
 <details>
