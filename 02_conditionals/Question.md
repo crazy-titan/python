@@ -56,7 +56,7 @@ Problem: Determine if a year is a leap year. (Leap years are divisible by 4, but
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>10. Pet Food Recommendation
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Recommend a type of pet food based on the pet's species and age. (e.g., Dog: less than 2 years - Puppy food, Cat: >5 years - Senior cat food).
 </details>
