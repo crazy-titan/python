@@ -18,3 +18,9 @@ Problem: Print the multiplication table for a given number up to 10, but skip th
 <summary>3. Multiplication Table Printer
 </summary>
 </details>
+
+<details>
+Problem: Reverse a string using a loop.
+<summary>4. Reverse a String
+</summary>
+</details>
