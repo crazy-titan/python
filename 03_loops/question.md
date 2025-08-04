@@ -12,3 +12,9 @@ Problem: Calculate the sum of even numbers up to a given number n.
 <summary>2. Sum of Even Numbers
 </summary>
 </details>
+
+<details>
+Problem: Print the multiplication table for a given number up to 10, but skip the fifth iteration.
+<summary>3. Multiplication Table Printer
+</summary>
+</details>
