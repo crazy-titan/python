@@ -28,13 +28,13 @@ Yellow - Ripe, Brown - Overripe)
 <details>
 <summary>5. Weather Activity Suggestion
 </summary>
-Problem: Suggest an activity based on the weather (e.g., Sunny - Go for a walk, Rainy - Read a book,Snowy - Build a snowman).)
+Problem: Suggest an activity based on the weather (e.g., Sunny - Go for a walk, Rainy - Read a book,Snowy - Build a snowman)
 </details>
 
 <details>
-<summary>1. Age Group Categorization
+<summary>6. Transportation Mode Selection
 </summary>
-Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Senior (60+).
+Problem: Choose a mode of transportation based on the distance (e.g., less than 3 km: Walk, 3-15 km: Bike, >15 km: Car).
 </details>
 
 <details>
