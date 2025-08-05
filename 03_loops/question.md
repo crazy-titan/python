@@ -24,3 +24,9 @@ Problem: Reverse a string using a loop.
 <summary>4. Reverse a String
 </summary>
 </details>
+
+<details>
+Problem: Given a string, find the first non-repeated character.
+<summary>5. Find the First Non-Repeated Character
+</summary>
+</details>
