@@ -15,4 +15,5 @@ if number > 1:
     # prime automatically, and prime divisible by itself
         if (number % i) == 0:
             is_prime = False    # if divide than its not a prime
+            break  # as we find , we exit the loop, don't proceed further
 print(is_prime)
