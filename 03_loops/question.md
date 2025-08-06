@@ -42,3 +42,9 @@ Problem: Keep asking the user for input until they enter a number between 1 and 
 <summary>7. Validate Input
 </summary>
 </details>
+
+<details>
+Problem: Check if a number is prime.
+<summary>8. Prime Number Checker
+</summary>
+</details>
