@@ -36,3 +36,9 @@ Problem: Compute the factorial of a number using a while loop.
 <summary>6. Factorial Calculator
 </summary>
 </details>
+
+<details>
+Problem: Keep asking the user for input until they enter a number between 1 and 10.
+<summary>7. Validate Input
+</summary>
+</details>
