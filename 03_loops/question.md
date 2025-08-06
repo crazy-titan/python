@@ -48,3 +48,10 @@ Problem: Check if a number is prime.
 <summary>8. Prime Number Checker
 </summary>
 </details>
+
+<details>
+Problem: Check if all elements in a list are unique. If a duplicate is found, exit the loop and print the duplicate.
+items = ["apple", "banana", "orange", "apple", "mango""]
+<summary>9. List Uniqueness Checker
+</summary>
+</details>
