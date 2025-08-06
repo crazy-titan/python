@@ -30,3 +30,9 @@ Problem: Given a string, find the first non-repeated character.
 <summary>5. Find the First Non-Repeated Character
 </summary>
 </details>
+
+<details>
+Problem: Compute the factorial of a number using a while loop.
+<summary>6. Factorial Calculator
+</summary>
+</details>
