@@ -55,3 +55,9 @@ items = ["apple", "banana", "orange", "apple", "mango""]
 <summary>9. List Uniqueness Checker
 </summary>
 </details>
+
+<details>
+Problem: Implement an exponential backoff strategy that doubles the wait time between retries, starting from 1 second, but stops after 5 retries.
+<summary>10. Exponential Backoff
+</summary>
+</details>
