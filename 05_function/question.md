@@ -44,3 +44,8 @@
 <summary>9. Generator Function with yield
 </summary>
 </details>
+
+<details>Problem: Create a recursive function to calculate the factorial of a number.
+<summary>10. Recursive Function
+</summary>
+</details>
