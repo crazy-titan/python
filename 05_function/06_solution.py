@@ -15,3 +15,5 @@ cube = lambda num: num ** 3  # num is a parameter and lambda function is stored 
 print(cube(3))    # will output as 27
 
 # we can't use this again n again anywhere, its just used and done here only
+# we can't write something like
+# another_cube = cube(3) not possible in lambda
