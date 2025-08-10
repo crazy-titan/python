@@ -9,3 +9,8 @@
 <summary>2. Function with Multiple Parameters
 </summary>
 </details>
+
+<details>Problem: Write a function multiply that multiplies two numbers, but can also accept and multiply strings.
+<summary>3. Polymorphism in Functions
+</summary>
+</details>
