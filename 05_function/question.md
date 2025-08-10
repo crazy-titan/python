@@ -31,7 +31,7 @@
 </details>
 
 <details>Problem: Write a function that takes variable number of arguments and returns their sum.
-<summary>7. Function with targs
+<summary>7. Function with *args
 </summary>
 </details>
 
