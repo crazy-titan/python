@@ -14,3 +14,8 @@
 <summary>3. Polymorphism in Functions
 </summary>
 </details>
+
+<details>Problem: Create a function that returns both the area and circumference of a circle given its radius.
+<summary>4. Function Returning Multiple Values
+</summary>
+</details>
