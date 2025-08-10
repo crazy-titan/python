@@ -39,3 +39,8 @@
 <summary>8. Function with **kwargs
 </summary>
 </details>
+
+<details>Problem: Write a generator function that yields even numbers up to a specified limit.
+<summary>9. Generator Function with yield
+</summary>
+</details>
