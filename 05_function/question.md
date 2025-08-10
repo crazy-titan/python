@@ -29,3 +29,8 @@
 <summary>6. Lambda Function
 </summary>
 </details>
+
+<details>Problem: Write a function that takes variable number of arguments and returns their sum.
+<summary>7. Function with targs
+</summary>
+</details>
