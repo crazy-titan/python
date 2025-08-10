@@ -24,3 +24,8 @@
 <summary>5. Default Parameter Value
 </summary>
 </details>
+
+<details>Problem: Create a lambda function to compute the cube of a number.
+<summary>6. Lambda Function
+</summary>
+</details>
