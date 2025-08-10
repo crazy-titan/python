@@ -34,3 +34,8 @@
 <summary>7. Function with targs
 </summary>
 </details>
+
+<details>Problem: Create a function that accepts any number of keyword arguments and prints them in the format key: value.
+<summary>8. Function with **kwargs
+</summary>
+</details>
