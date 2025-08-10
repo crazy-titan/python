@@ -19,3 +19,8 @@
 <summary>4. Function Returning Multiple Values
 </summary>
 </details>
+
+<details>Problem: Write a function that greets a user. If no name is provided, it should greet with a default name.
+<summary>5. Default Parameter Value
+</summary>
+</details>
